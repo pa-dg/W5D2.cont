@@ -120,7 +120,7 @@ def population_constraint
             FROM
               countries
             WHERE
-              name='Poland' );
+              name = 'Poland');
   SQL
 end
 
